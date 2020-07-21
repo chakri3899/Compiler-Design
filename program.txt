@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+  int 5b, a, b, c;
+  c = a + b;
+  if (a < b)
+  printf ("a is smaller");
+  else
+  printf ("b is smaller");
+}
