@@ -1,4 +1,4 @@
-/*Implementation of Lexical Analyser using C program*/
+/*Implementation of simple Lexical Analyser using C program*/
 
 
 #include <stdio.h>
